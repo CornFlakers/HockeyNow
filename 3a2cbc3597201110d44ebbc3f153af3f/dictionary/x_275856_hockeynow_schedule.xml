@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Schedule" max_length="40" name="x_275856_hockeynow_schedule" type="collection">
+        <element label="Away Team" max_length="32" name="away_team" reference="x_275856_hockeynow_team" type="reference"/>
+        <element label="Boxscore" max_length="32" name="boxscore" reference="x_275856_hockeynow_boxscore" type="reference"/>
+        <element label="Game Number" max_length="40" name="game_number" type="string"/>
+        <element label="Home Team" max_length="32" name="home_team" reference="x_275856_hockeynow_team" type="reference"/>
+        <element label="Season" max_length="40" name="season" type="string"/>
+        <index name="index">
+            <element name="home_team"/>
+        </index>
+        <index name="index2">
+            <element name="away_team"/>
+        </index>
+    </element>
+</database>

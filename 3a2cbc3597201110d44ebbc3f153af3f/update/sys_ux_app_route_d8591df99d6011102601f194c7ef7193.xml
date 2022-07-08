@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
+    <sys_ux_app_route action="INSERT_OR_UPDATE">
+        <app_config display_value="HockeyNow Config">d0591df997601110d44ebbc3f153af77</app_config>
+        <description/>
+        <fields/>
+        <icon/>
+        <name>Attachments</name>
+        <optional_parameters/>
+        <order>200</order>
+        <parent_macroponent display_value="Record Page(request)">5c591df964601110306e106963740e93</parent_macroponent>
+        <parent_macroponent_composition_element_id>tab_set_1</parent_macroponent_composition_element_id>
+        <route_type>rec_req_att</route_type>
+        <screen_type display_value="Attachments">98591df98e6011102e10be4b021a8d93</screen_type>
+        <sys_class_name>sys_ux_app_route</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-07-08 05:25:15</sys_created_on>
+        <sys_id>d8591df99d6011102601f194c7ef7193</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Attachments</sys_name>
+        <sys_package display_value="HockeyNow" source="x_275856_hockeynow">3a2cbc3597201110d44ebbc3f153af3f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="HockeyNow">3a2cbc3597201110d44ebbc3f153af3f</sys_scope>
+        <sys_update_name>sys_ux_app_route_d8591df99d6011102601f194c7ef7193</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2022-07-08 05:25:15</sys_updated_on>
+    </sys_ux_app_route>
+    <sys_translated_text action="delete_multiple" query="documentkey=d8591df99d6011102601f194c7ef7193"/>
+</record_update>

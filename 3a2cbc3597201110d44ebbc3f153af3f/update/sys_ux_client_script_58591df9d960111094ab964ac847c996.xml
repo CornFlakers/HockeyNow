@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_client_script">
+    <sys_ux_client_script action="INSERT_OR_UPDATE">
+        <includes/>
+        <macroponent display_value="Search Page">98591df9da60111070a88cf8efdc4e96</macroponent>
+        <name>handle_pagination</name>
+        <required_translations>[ ]</required_translations>
+        <script><![CDATA[function handler({ api, event, helpers }) {
+	const props = api.context.props;
+	const fields = {
+		searchContextConfigId: props.searchContextConfigId,
+		searchTerm: props.searchTerm
+	};
+	const token = event.payload.paginationToken;
+	const params = {
+		searchFilters: props.searchFilters,
+		facetFilters: props.facetFilters,
+		disableSpellCheck: props.disableSpellCheck,
+		paginationToken: token
+	};
+	global.window.scrollTo(0, 0);
+	helpers.navigate.to('search', fields, params);
+}]]></script>
+        <script_api_version>1.0.0</script_api_version>
+        <sys_class_name>sys_ux_client_script</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-07-08 05:25:16</sys_created_on>
+        <sys_id>58591df9d960111094ab964ac847c996</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>handle_pagination</sys_name>
+        <sys_package display_value="HockeyNow" source="x_275856_hockeynow">3a2cbc3597201110d44ebbc3f153af3f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="HockeyNow">3a2cbc3597201110d44ebbc3f153af3f</sys_scope>
+        <sys_update_name>sys_ux_client_script_58591df9d960111094ab964ac847c996</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2022-07-08 05:25:16</sys_updated_on>
+    </sys_ux_client_script>
+</record_update>

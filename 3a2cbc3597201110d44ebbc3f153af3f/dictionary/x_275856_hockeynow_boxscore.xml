@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Boxscore" max_length="40" name="x_275856_hockeynow_boxscore" type="collection">
+        <element label="Attendance" max_length="40" name="attendance" type="string"/>
+        <element label="Away Goals OT" max_length="40" name="away_goals_ot" type="string"/>
+        <element default="0" label="Away Goals P1" max_length="40" name="away_goals_p1" type="string"/>
+        <element default="0" label="Away Goals P2" max_length="40" name="away_goals_p2" type="string"/>
+        <element default="0" label="Away Goals P3" max_length="40" name="away_goals_p3" type="string"/>
+        <element label="Away Powerplay" max_length="40" name="away_powerplay" type="string"/>
+        <element label="Away Score" max_length="40" name="away_score" type="integer"/>
+        <element label="Away Shots OT" max_length="40" name="away_shots_ot" type="string"/>
+        <element label="Away Shots P1" max_length="40" name="away_shots_p1" type="string"/>
+        <element label="Away Shots P2" max_length="40" name="away_shots_p2" type="string"/>
+        <element label="Away Shots P3" max_length="40" name="away_shots_p3" type="string"/>
+        <element label="Game Number" max_length="32" name="game_number" reference="x_275856_hockeynow_schedule" type="reference"/>
+        <element label="Home Goals OT" max_length="40" name="home_goals_ot" type="string"/>
+        <element default="0" label="Home Goals P1" max_length="40" name="home_goals_p1" type="string"/>
+        <element default="0" label="Home Goals P2" max_length="40" name="home_goals_p2" type="string"/>
+        <element default="0" label="Home Goals P3" max_length="40" name="home_goals_p3" type="string"/>
+        <element label="Home Powerplay" max_length="40" name="home_powerplay" type="string"/>
+        <element label="Home Score" max_length="40" name="home_score" type="string"/>
+        <element label="Home Shots OT" max_length="40" name="home_shots_ot" type="string"/>
+        <element label="Home Shots P1" max_length="40" name="home_shots_p1" type="string"/>
+        <element label="Home Shots P2" max_length="40" name="home_shots_p2" type="string"/>
+        <element label="Home Shots P3" max_length="40" name="home_shots_p3" type="string"/>
+        <element label="Result" max_length="40" name="result" type="string"/>
+        <element label="Revenue" max_length="40" name="revenue" type="string"/>
+        <element label="Star1" max_length="32" name="star1" reference="x_275856_hockeynow_player" type="reference"/>
+        <element label="Star2" max_length="32" name="star2" reference="x_275856_hockeynow_player" type="reference"/>
+        <element label="Star3" max_length="32" name="star3" reference="x_275856_hockeynow_player" type="reference"/>
+        <index name="index">
+            <element name="star1"/>
+        </index>
+        <index name="index2">
+            <element name="star2"/>
+        </index>
+        <index name="index3">
+            <element name="star3"/>
+        </index>
+        <index name="index4">
+            <element name="game_number"/>
+        </index>
+    </element>
+</database>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_uib_template">
+    <sys_uib_template action="INSERT_OR_UPDATE">
+        <associated_types>f198e5625311101017caddeeff7b120d,dcc732935301101017caddeeff7b1255</associated_types>
+        <image display_value="ui-builder-templates-one-region.svg">a560964877311010d99bbc3f681061ce</image>
+        <label>Portal Page with Background</label>
+        <macroponent display_value="Portal Page">54591df93a601110054d789e626bb2a4</macroponent>
+        <order>0</order>
+        <sys_class_name>sys_uib_template</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-07-08 05:25:15</sys_created_on>
+        <sys_id>14591df9e8601110911150753bec61a4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Portal Page with Background</sys_name>
+        <sys_package display_value="HockeyNow" source="x_275856_hockeynow">3a2cbc3597201110d44ebbc3f153af3f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="HockeyNow">3a2cbc3597201110d44ebbc3f153af3f</sys_scope>
+        <sys_update_name>sys_uib_template_14591df9e8601110911150753bec61a4</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2022-07-08 05:25:15</sys_updated_on>
+    </sys_uib_template>
+</record_update>

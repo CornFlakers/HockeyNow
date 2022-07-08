@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_addon_event_mapping">
+    <sys_ux_addon_event_mapping action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description/>
+        <name>Approve Mapping</name>
+        <parent_macroponent display_value="Landing Page">d0591df9cf601110756c9d24458e59a5</parent_macroponent>
+        <source_da display_value="approve">5c591df9e660111017a753128d0c8895</source_da>
+        <source_element_id>data_row_1</source_element_id>
+        <sys_class_name>sys_ux_addon_event_mapping</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-07-08 05:25:16</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>1c591df9666011109e1d933568bc5ba5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Approve Mapping</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="HockeyNow" source="x_275856_hockeynow">3a2cbc3597201110d44ebbc3f153af3f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="HockeyNow">3a2cbc3597201110d44ebbc3f153af3f</sys_scope>
+        <sys_update_name>sys_ux_addon_event_mapping_1c591df9666011109e1d933568bc5ba5</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2022-07-08 05:25:16</sys_updated_on>
+        <target_event display_value="My tasks approve">5c591df996601110fed1b612066ee1a5</target_event>
+        <target_payload_mapping>{
+  "type": "MAP_CONTAINER",
+  "container": {
+    "sysId": {
+      "type": "EVENT_PAYLOAD_BINDING",
+      "binding": {
+        "address": [
+          "sysId"
+        ]
+      }
+    },
+    "table": {
+      "type": "EVENT_PAYLOAD_BINDING",
+      "binding": {
+        "address": [
+          "table"
+        ]
+      }
+    }
+  }
+}</target_payload_mapping>
+    </sys_ux_addon_event_mapping>
+</record_update>

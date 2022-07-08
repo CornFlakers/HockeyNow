@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_screen">
+    <sys_ux_screen action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <app_config display_value="HockeyNow Config">d0591df997601110d44ebbc3f153af77</app_config>
+        <description/>
+        <event_mappings>[ ]</event_mappings>
+        <macroponent display_value="Additional Details">98591df9a960111016e824a54d2fc69e</macroponent>
+        <macroponent_config>{
+  "sysId" : "@context.props.sysId",
+  "label" : "",
+  "bare" : true,
+  "scrollable" : "none",
+  "headerLevel" : "1",
+  "interceptNotifications" : false,
+  "propagateNotifications" : false
+}</macroponent_config>
+        <name>Additional Details Default</name>
+        <order>0</order>
+        <parent_macroponent display_value="Record Page(task)">d4591df9bf6011107778f97ae4f8f793</parent_macroponent>
+        <required_translations>[]</required_translations>
+        <screen_condition/>
+        <screen_type display_value="Additional Details">10591df9a86011104d98e48b45963c96</screen_type>
+        <sys_class_name>sys_ux_screen</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-07-08 05:25:15</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>94591df9bd601110ccb794c7f92c79a0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Additional Details Default</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="HockeyNow" source="x_275856_hockeynow">3a2cbc3597201110d44ebbc3f153af3f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="HockeyNow">3a2cbc3597201110d44ebbc3f153af3f</sys_scope>
+        <sys_update_name>sys_ux_screen_94591df9bd601110ccb794c7f92c79a0</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2022-07-08 05:25:15</sys_updated_on>
+    </sys_ux_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=94591df9bd601110ccb794c7f92c79a0"/>
+</record_update>

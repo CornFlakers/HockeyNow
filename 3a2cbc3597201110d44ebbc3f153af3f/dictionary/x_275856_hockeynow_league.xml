@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element label="League" max_length="40" name="x_275856_hockeynow_league" type="collection">
+        <element label="Current Season" max_length="40" name="current_season" type="string"/>
         <element label="League Commissioner" max_length="32" name="league_commissioner" reference="sys_user" type="reference"/>
-        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
         <element label="League Name" max_length="40" name="league_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
         <index name="index">
             <element name="league_commissioner"/>
         </index>

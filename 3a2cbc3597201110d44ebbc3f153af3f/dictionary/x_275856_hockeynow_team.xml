@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Team" max_length="40" name="x_275856_hockeynow_team" type="collection">
+        <element label="GM" max_length="32" name="gm" reference="sys_user" type="reference"/>
+        <element label="League" max_length="32" name="league" reference="x_275856_hockeynow_league" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Team Name" max_length="40" name="team_name" type="string"/>
+        <index name="index">
+            <element name="gm"/>
+        </index>
+        <index name="index2">
+            <element name="league"/>
+        </index>
+    </element>
+</database>

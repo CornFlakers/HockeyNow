@@ -1,0 +1,980 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="slot" table="x_275856_hockeynow_lines" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>slot</element>
+            <name>x_275856_hockeynow_lines</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-07-08 04:55:42</sys_created_on>
+            <sys_id>bb82957597601110d44ebbc3f153afe2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>slot</sys_name>
+            <sys_package display_value="HockeyNow" source="x_275856_hockeynow">3a2cbc3597201110d44ebbc3f153af3f</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="HockeyNow">3a2cbc3597201110d44ebbc3f153af3f</sys_scope>
+            <sys_update_name>sys_choice_x_275856_hockeynow_lines_slot</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-07-08 04:55:42</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>slot</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>C1</label>
+            <language>en</language>
+            <name>x_275856_hockeynow_lines</name>
+            <sequence>10</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-07-08 04:55:42</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ff82957597601110d44ebbc3f153afe1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-07-08 04:55:42</sys_updated_on>
+            <value>c1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>slot</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>C2</label>
+            <language>en</language>
+            <name>x_275856_hockeynow_lines</name>
+            <sequence>20</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-07-08 04:55:42</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8892d1b597601110d44ebbc3f153afc8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-07-08 04:55:42</sys_updated_on>
+            <value>c2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>slot</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>C3</label>
+            <language>en</language>
+            <name>x_275856_hockeynow_lines</name>
+            <sequence>30</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-07-08 04:55:42</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0492957597601110d44ebbc3f153afe6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-07-08 04:55:42</sys_updated_on>
+            <value>c3</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>slot</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>C4</label>
+            <language>en</language>
+            <name>x_275856_hockeynow_lines</name>
+            <sequence>40</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-07-08 04:55:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4892d1b597601110d44ebbc3f153afcc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-07-08 04:55:43</sys_updated_on>
+            <value>c4</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>slot</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>LW1</label>
+            <language>en</language>
+            <name>x_275856_hockeynow_lines</name>
+            <sequence>50</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-07-08 04:55:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4892d1b597601110d44ebbc3f153afd6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-07-08 04:55:43</sys_updated_on>
+            <value>lw1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>slot</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>LW2</label>
+            <language>en</language>
+            <name>x_275856_hockeynow_lines</name>
+            <sequence>60</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-07-08 04:55:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0892d1b597601110d44ebbc3f153afd0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-07-08 04:55:43</sys_updated_on>
+            <value>lw2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>slot</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>LW3</label>
+            <language>en</language>
+            <name>x_275856_hockeynow_lines</name>
+            <sequence>70</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-07-08 04:55:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0892d1b597601110d44ebbc3f153afda</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-07-08 04:55:43</sys_updated_on>
+            <value>lw3</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>slot</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>LW4</label>
+            <language>en</language>
+            <name>x_275856_hockeynow_lines</name>
+            <sequence>80</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-07-08 04:55:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8c92d1b597601110d44ebbc3f153afe0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-07-08 04:55:43</sys_updated_on>
+            <value>lw4</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>slot</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>RW1</label>
+            <language>en</language>
+            <name>x_275856_hockeynow_lines</name>
+            <sequence>90</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-07-08 04:55:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c492d1b597601110d44ebbc3f153afde</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-07-08 04:55:43</sys_updated_on>
+            <value>rw1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>slot</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>RW2</label>
+            <language>en</language>
+            <name>x_275856_hockeynow_lines</name>
+            <sequence>100</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-07-08 04:55:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5c92d1b597601110d44ebbc3f153afe4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-07-08 04:55:43</sys_updated_on>
+            <value>rw2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>slot</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>RW3</label>
+            <language>en</language>
+            <name>x_275856_hockeynow_lines</name>
+            <sequence>110</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-07-08 04:55:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5c92d1b597601110d44ebbc3f153afee</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-07-08 04:55:43</sys_updated_on>
+            <value>rw3</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>slot</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>RW4</label>
+            <language>en</language>
+            <name>x_275856_hockeynow_lines</name>
+            <sequence>120</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-07-08 04:55:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1c92d1b597601110d44ebbc3f153afe8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-07-08 04:55:44</sys_updated_on>
+            <value>rw4</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>slot</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>D1</label>
+            <language>en</language>
+            <name>x_275856_hockeynow_lines</name>
+            <sequence>130</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-07-08 04:55:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1c92d1b597601110d44ebbc3f153aff2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-07-08 04:55:44</sys_updated_on>
+            <value>d1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>slot</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>D2</label>
+            <language>en</language>
+            <name>x_275856_hockeynow_lines</name>
+            <sequence>140</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-07-08 04:55:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d892d1b597601110d44ebbc3f153afec</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-07-08 04:55:44</sys_updated_on>
+            <value>d2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>slot</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>D3</label>
+            <language>en</language>
+            <name>x_275856_hockeynow_lines</name>
+            <sequence>150</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-07-08 04:55:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d892d1b597601110d44ebbc3f153aff6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-07-08 04:55:44</sys_updated_on>
+            <value>d3</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>slot</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>D4</label>
+            <language>en</language>
+            <name>x_275856_hockeynow_lines</name>
+            <sequence>160</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-07-08 04:55:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5092d1b597601110d44ebbc3f153affd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-07-08 04:55:44</sys_updated_on>
+            <value>d4</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>slot</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>D5</label>
+            <language>en</language>
+            <name>x_275856_hockeynow_lines</name>
+            <sequence>170</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-07-08 04:55:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>509215b597601110d44ebbc3f153af07</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-07-08 04:55:44</sys_updated_on>
+            <value>d5</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>slot</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>D6</label>
+            <language>en</language>
+            <name>x_275856_hockeynow_lines</name>
+            <sequence>180</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-07-08 04:55:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>109215b597601110d44ebbc3f153af01</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-07-08 04:55:44</sys_updated_on>
+            <value>d6</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>slot</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>D7</label>
+            <language>en</language>
+            <name>x_275856_hockeynow_lines</name>
+            <sequence>190</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-07-08 04:55:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>209215b597601110d44ebbc3f153af0b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-07-08 04:55:44</sys_updated_on>
+            <value>d7</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>slot</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>D8</label>
+            <language>en</language>
+            <name>x_275856_hockeynow_lines</name>
+            <sequence>200</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-07-08 04:55:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ec9215b597601110d44ebbc3f153af04</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-07-08 04:55:44</sys_updated_on>
+            <value>d8</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>slot</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>G1</label>
+            <language>en</language>
+            <name>x_275856_hockeynow_lines</name>
+            <sequence>210</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-07-08 04:55:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ec9215b597601110d44ebbc3f153af0e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-07-08 04:55:45</sys_updated_on>
+            <value>g1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>slot</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>G2</label>
+            <language>en</language>
+            <name>x_275856_hockeynow_lines</name>
+            <sequence>220</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-07-08 04:55:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2c9215b597601110d44ebbc3f153af21</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-07-08 04:55:45</sys_updated_on>
+            <value>g2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>slot</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>E1</label>
+            <language>en</language>
+            <name>x_275856_hockeynow_lines</name>
+            <sequence>230</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-07-08 04:55:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2c9215b597601110d44ebbc3f153af2b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-07-08 04:55:45</sys_updated_on>
+            <value>e1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>slot</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>E2</label>
+            <language>en</language>
+            <name>x_275856_hockeynow_lines</name>
+            <sequence>240</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-07-08 04:55:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e89215b597601110d44ebbc3f153af25</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-07-08 04:55:45</sys_updated_on>
+            <value>e2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>slot</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>PP1C</label>
+            <language>en</language>
+            <name>x_275856_hockeynow_lines</name>
+            <sequence>250</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-07-08 04:55:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e89215b597601110d44ebbc3f153af2f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-07-08 04:55:45</sys_updated_on>
+            <value>pp1c</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>slot</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>PP1LW</label>
+            <language>en</language>
+            <name>x_275856_hockeynow_lines</name>
+            <sequence>260</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-07-08 04:55:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a89215b597601110d44ebbc3f153af29</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-07-08 04:55:45</sys_updated_on>
+            <value>pp1lw</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>slot</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>PP1RW</label>
+            <language>en</language>
+            <name>x_275856_hockeynow_lines</name>
+            <sequence>270</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-07-08 04:55:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b89215b597601110d44ebbc3f153af33</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-07-08 04:55:45</sys_updated_on>
+            <value>pp1rw</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>slot</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>PP1D1</label>
+            <language>en</language>
+            <name>x_275856_hockeynow_lines</name>
+            <sequence>280</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-07-08 04:55:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>309215b597601110d44ebbc3f153af3a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-07-08 04:55:45</sys_updated_on>
+            <value>pp1d1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>slot</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>PP1D2</label>
+            <language>en</language>
+            <name>x_275856_hockeynow_lines</name>
+            <sequence>290</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-07-08 04:55:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>789215b597601110d44ebbc3f153af37</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-07-08 04:55:46</sys_updated_on>
+            <value>pp1d2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>slot</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>PP2C</label>
+            <language>en</language>
+            <name>x_275856_hockeynow_lines</name>
+            <sequence>300</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-07-08 04:55:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fc9215b597601110d44ebbc3f153af3d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-07-08 04:55:46</sys_updated_on>
+            <value>pp2c</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>slot</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>PP2LW</label>
+            <language>en</language>
+            <name>x_275856_hockeynow_lines</name>
+            <sequence>310</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-07-08 04:55:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fc9215b597601110d44ebbc3f153af47</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-07-08 04:55:46</sys_updated_on>
+            <value>pp2lw</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>slot</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>PP2RW</label>
+            <language>en</language>
+            <name>x_275856_hockeynow_lines</name>
+            <sequence>320</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-07-08 04:55:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>bc9215b597601110d44ebbc3f153af41</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-07-08 04:55:46</sys_updated_on>
+            <value>pp2rw</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>slot</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>PP2D1</label>
+            <language>en</language>
+            <name>x_275856_hockeynow_lines</name>
+            <sequence>330</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-07-08 04:55:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>bc9215b597601110d44ebbc3f153af4b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-07-08 04:55:46</sys_updated_on>
+            <value>pp2d1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>slot</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>PP2D2</label>
+            <language>en</language>
+            <name>x_275856_hockeynow_lines</name>
+            <sequence>340</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-07-08 04:55:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>349215b597601110d44ebbc3f153af52</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-07-08 04:55:46</sys_updated_on>
+            <value>pp2d2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>slot</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>PK1C</label>
+            <language>en</language>
+            <name>x_275856_hockeynow_lines</name>
+            <sequence>350</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-07-08 04:55:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4d9215b597601110d44ebbc3f153af4f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-07-08 04:55:46</sys_updated_on>
+            <value>pk1c</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>slot</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>PK1W</label>
+            <language>en</language>
+            <name>x_275856_hockeynow_lines</name>
+            <sequence>360</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-07-08 04:55:47</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c19215b597601110d44ebbc3f153af56</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-07-08 04:55:47</sys_updated_on>
+            <value>pk1w</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>slot</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>PK1D1</label>
+            <language>en</language>
+            <name>x_275856_hockeynow_lines</name>
+            <sequence>370</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-07-08 04:55:47</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c19215b597601110d44ebbc3f153af60</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-07-08 04:55:47</sys_updated_on>
+            <value>pk1d1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>slot</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>PK1D2</label>
+            <language>en</language>
+            <name>x_275856_hockeynow_lines</name>
+            <sequence>380</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-07-08 04:55:47</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>819215b597601110d44ebbc3f153af5a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-07-08 04:55:47</sys_updated_on>
+            <value>pk1d2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>slot</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>PK2C</label>
+            <language>en</language>
+            <name>x_275856_hockeynow_lines</name>
+            <sequence>390</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-07-08 04:55:47</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>819215b597601110d44ebbc3f153af64</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-07-08 04:55:47</sys_updated_on>
+            <value>pk2c</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>slot</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>PK2W</label>
+            <language>en</language>
+            <name>x_275856_hockeynow_lines</name>
+            <sequence>400</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-07-08 04:55:47</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>859215b597601110d44ebbc3f153af83</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-07-08 04:55:47</sys_updated_on>
+            <value>pk2w</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>slot</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>PK2D1</label>
+            <language>en</language>
+            <name>x_275856_hockeynow_lines</name>
+            <sequence>410</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-07-08 04:55:47</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>519215b597601110d44ebbc3f153af68</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-07-08 04:55:47</sys_updated_on>
+            <value>pk2d1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>slot</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>PK2D2</label>
+            <language>en</language>
+            <name>x_275856_hockeynow_lines</name>
+            <sequence>420</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-07-08 04:55:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>559215b597601110d44ebbc3f153af87</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-07-08 04:55:48</sys_updated_on>
+            <value>pk2d2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>slot</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>PKBC</label>
+            <language>en</language>
+            <name>x_275856_hockeynow_lines</name>
+            <sequence>430</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-07-08 04:55:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>559215b597601110d44ebbc3f153af91</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-07-08 04:55:48</sys_updated_on>
+            <value>pkbc</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>slot</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>PKBW</label>
+            <language>en</language>
+            <name>x_275856_hockeynow_lines</name>
+            <sequence>440</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-07-08 04:55:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>159215b597601110d44ebbc3f153af8b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-07-08 04:55:48</sys_updated_on>
+            <value>pkbw</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>slot</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>PKBD</label>
+            <language>en</language>
+            <name>x_275856_hockeynow_lines</name>
+            <sequence>450</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-07-08 04:55:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>159215b597601110d44ebbc3f153af95</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-07-08 04:55:48</sys_updated_on>
+            <value>pkbd</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>slot</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>PKB2C</label>
+            <language>en</language>
+            <name>x_275856_hockeynow_lines</name>
+            <sequence>460</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-07-08 04:55:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>999215b597601110d44ebbc3f153af9b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-07-08 04:55:48</sys_updated_on>
+            <value>pkb2c</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>slot</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>PKB2W</label>
+            <language>en</language>
+            <name>x_275856_hockeynow_lines</name>
+            <sequence>470</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-07-08 04:55:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d19215b597601110d44ebbc3f153af99</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-07-08 04:55:48</sys_updated_on>
+            <value>pkb2w</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>slot</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>PKB2D</label>
+            <language>en</language>
+            <name>x_275856_hockeynow_lines</name>
+            <sequence>480</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-07-08 04:55:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>599215b597601110d44ebbc3f153af9f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-07-08 04:55:48</sys_updated_on>
+            <value>pkb2d</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

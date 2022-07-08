@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Lines" max_length="40" name="x_275856_hockeynow_lines" type="collection">
+        <element label="Player" max_length="32" name="player" reference="x_275856_hockeynow_player" type="reference"/>
+        <element choice="3" label="Slot" max_length="40" name="slot" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="C1" sequence="10" value="c1"/>
+                <element inactive_on_update="false" label="C2" sequence="20" value="c2"/>
+                <element inactive_on_update="false" label="C3" sequence="30" value="c3"/>
+                <element inactive_on_update="false" label="C4" sequence="40" value="c4"/>
+                <element inactive_on_update="false" label="LW1" sequence="50" value="lw1"/>
+                <element inactive_on_update="false" label="LW2" sequence="60" value="lw2"/>
+                <element inactive_on_update="false" label="LW3" sequence="70" value="lw3"/>
+                <element inactive_on_update="false" label="LW4" sequence="80" value="lw4"/>
+                <element inactive_on_update="false" label="RW1" sequence="90" value="rw1"/>
+                <element inactive_on_update="false" label="RW2" sequence="100" value="rw2"/>
+                <element inactive_on_update="false" label="RW3" sequence="110" value="rw3"/>
+                <element inactive_on_update="false" label="RW4" sequence="120" value="rw4"/>
+                <element inactive_on_update="false" label="D1" sequence="130" value="d1"/>
+                <element inactive_on_update="false" label="D2" sequence="140" value="d2"/>
+                <element inactive_on_update="false" label="D3" sequence="150" value="d3"/>
+                <element inactive_on_update="false" label="D4" sequence="160" value="d4"/>
+                <element inactive_on_update="false" label="D5" sequence="170" value="d5"/>
+                <element inactive_on_update="false" label="D6" sequence="180" value="d6"/>
+                <element inactive_on_update="false" label="D7" sequence="190" value="d7"/>
+                <element inactive_on_update="false" label="D8" sequence="200" value="d8"/>
+                <element inactive_on_update="false" label="G1" sequence="210" value="g1"/>
+                <element inactive_on_update="false" label="G2" sequence="220" value="g2"/>
+                <element inactive_on_update="false" label="E1" sequence="230" value="e1"/>
+                <element inactive_on_update="false" label="E2" sequence="240" value="e2"/>
+                <element inactive_on_update="false" label="PP1C" sequence="250" value="pp1c"/>
+                <element inactive_on_update="false" label="PP1LW" sequence="260" value="pp1lw"/>
+                <element inactive_on_update="false" label="PP1RW" sequence="270" value="pp1rw"/>
+                <element inactive_on_update="false" label="PP1D1" sequence="280" value="pp1d1"/>
+                <element inactive_on_update="false" label="PP1D2" sequence="290" value="pp1d2"/>
+                <element inactive_on_update="false" label="PP2C" sequence="300" value="pp2c"/>
+                <element inactive_on_update="false" label="PP2LW" sequence="310" value="pp2lw"/>
+                <element inactive_on_update="false" label="PP2RW" sequence="320" value="pp2rw"/>
+                <element inactive_on_update="false" label="PP2D1" sequence="330" value="pp2d1"/>
+                <element inactive_on_update="false" label="PP2D2" sequence="340" value="pp2d2"/>
+                <element inactive_on_update="false" label="PK1C" sequence="350" value="pk1c"/>
+                <element inactive_on_update="false" label="PK1W" sequence="360" value="pk1w"/>
+                <element inactive_on_update="false" label="PK1D1" sequence="370" value="pk1d1"/>
+                <element inactive_on_update="false" label="PK1D2" sequence="380" value="pk1d2"/>
+                <element inactive_on_update="false" label="PK2C" sequence="390" value="pk2c"/>
+                <element inactive_on_update="false" label="PK2W" sequence="400" value="pk2w"/>
+                <element inactive_on_update="false" label="PK2D1" sequence="410" value="pk2d1"/>
+                <element inactive_on_update="false" label="PK2D2" sequence="420" value="pk2d2"/>
+                <element inactive_on_update="false" label="PKBC" sequence="430" value="pkbc"/>
+                <element inactive_on_update="false" label="PKBW" sequence="440" value="pkbw"/>
+                <element inactive_on_update="false" label="PKBD" sequence="450" value="pkbd"/>
+                <element inactive_on_update="false" label="PKB2C" sequence="460" value="pkb2c"/>
+                <element inactive_on_update="false" label="PKB2W" sequence="470" value="pkb2w"/>
+                <element inactive_on_update="false" label="PKB2D" sequence="480" value="pkb2d"/>
+            </choice>
+        </element>
+        <element label="Team" max_length="32" name="team" reference="x_275856_hockeynow_team" type="reference"/>
+        <index name="index">
+            <element name="team"/>
+        </index>
+        <index name="index2">
+            <element name="player"/>
+        </index>
+    </element>
+</database>

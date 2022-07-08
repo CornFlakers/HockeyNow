@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Period Events" max_length="40" name="x_275856_hockeynow_period_events" type="collection">
+        <element label="Event" max_length="40" name="event" type="string"/>
+        <element label="Game Number" max_length="32" name="game_number" reference="x_275856_hockeynow_schedule" type="reference"/>
+        <element label="Period" max_length="40" name="period" type="string"/>
+        <index name="index">
+            <element name="game_number"/>
+        </index>
+    </element>
+</database>

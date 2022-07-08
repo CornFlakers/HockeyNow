@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Team Stats" max_length="40" name="x_275856_hockeynow_team_stats" type="collection">
+        <element label="GA" max_length="40" name="ga" type="integer"/>
+        <element label="GF" max_length="40" name="gf" type="integer"/>
+        <element label="GP" max_length="40" name="gp" type="integer"/>
+        <element label="L" max_length="40" name="l" type="integer"/>
+        <element label="OT Loss" max_length="40" name="ot_loss" type="integer"/>
+        <element label="PK%" max_length="20" name="pk" type="decimal"/>
+        <element label="Points" max_length="40" name="points" type="integer"/>
+        <element label="PP%" max_length="20" name="pp" type="decimal"/>
+        <element label="SA/GP" max_length="20" name="sa_gp" type="decimal"/>
+        <element label="Season" max_length="40" name="season" type="string"/>
+        <element label="Shots/GP" max_length="20" name="shots_gp" type="decimal"/>
+        <element label="SO Wins" max_length="40" name="so_wins" type="integer"/>
+        <element label="Team" max_length="32" name="team" reference="x_275856_hockeynow_team" type="reference"/>
+        <element label="W" max_length="40" name="w" type="integer"/>
+        <index name="index">
+            <element name="team"/>
+        </index>
+    </element>
+</database>

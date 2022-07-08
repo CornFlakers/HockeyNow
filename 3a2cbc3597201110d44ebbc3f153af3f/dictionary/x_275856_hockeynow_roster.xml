@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Roster" max_length="40" name="x_275856_hockeynow_roster" type="collection">
+        <element choice="3" default="minor" label="Level" max_length="40" name="level" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Pro" sequence="10" value="pro"/>
+                <element inactive_on_update="false" label="Farm" sequence="20" value="farm"/>
+                <element inactive_on_update="false" label="Minor" sequence="30" value="minor"/>
+            </choice>
+        </element>
+        <element label="Player" max_length="32" name="player" reference="x_275856_hockeynow_player" type="reference"/>
+        <element label="Season" max_length="40" name="season" type="string"/>
+        <element label="Team" max_length="32" name="team" reference="x_275856_hockeynow_team" type="reference"/>
+        <index name="index">
+            <element name="team"/>
+        </index>
+        <index name="index2">
+            <element name="player"/>
+        </index>
+    </element>
+</database>

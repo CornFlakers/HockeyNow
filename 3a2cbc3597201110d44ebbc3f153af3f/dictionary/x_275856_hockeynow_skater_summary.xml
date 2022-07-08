@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Skater Summary" max_length="40" name="x_275856_hockeynow_skater_summary" type="collection">
+        <element label="A" max_length="40" name="a" type="string"/>
+        <element label="G" max_length="40" name="g" type="string"/>
+        <element label="Game Number" max_length="32" name="game_number" reference="x_275856_hockeynow_schedule" type="reference"/>
+        <element label="H" max_length="40" name="h" type="string"/>
+        <element label="PIM" max_length="40" name="pim" type="string"/>
+        <element label="Player" max_length="32" name="player" reference="x_275856_hockeynow_player" type="reference"/>
+        <element label="+/-" max_length="40" name="plus_minus" type="string"/>
+        <element label="Points" max_length="40" name="points" type="string"/>
+        <element label="Result" max_length="40" name="result" type="string"/>
+        <element label="SA" max_length="40" name="sa" type="string"/>
+        <element label="SH" max_length="40" name="sh" type="string"/>
+        <element label="SO" max_length="40" name="so" type="string"/>
+        <element label="SV" max_length="40" name="sv" type="string"/>
+        <element label="SV%" max_length="40" name="sv_percentage" type="string"/>
+        <element label="Team" max_length="32" name="team" reference="x_275856_hockeynow_team" type="reference"/>
+        <element label="TOI" max_length="40" name="toi" type="string"/>
+        <index name="index">
+            <element name="team"/>
+        </index>
+        <index name="index2">
+            <element name="game_number"/>
+        </index>
+        <index name="index3">
+            <element name="player"/>
+        </index>
+    </element>
+</database>
